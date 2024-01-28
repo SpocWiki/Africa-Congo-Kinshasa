@@ -16,8 +16,8 @@ id: Congo, Dem. Rep.
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Congo~Kinshasa//
-markerFolder: ./Congo~Kinshasa//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Congo, Dem. Rep.] 
