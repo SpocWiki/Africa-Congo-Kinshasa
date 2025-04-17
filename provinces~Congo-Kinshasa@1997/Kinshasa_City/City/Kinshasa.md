@@ -32,28 +32,28 @@ official_name:
 - Kinshasa
 area: 9965
 population: 14565700
-founded_by: "[[/_Standards/WikiData/WD~Henry Morton Stanley,171421]]"
+founded_by: "[[/_Standards/WikiData/WD~Henry_Morton_Stanley,171421]]"
 instance_of:
 - '[[/_Standards/WikiData/WD~megacity,174844]]'
-- "[[/_Standards/WikiData/WD~border city,902814]]"
-- "[[/_Standards/WikiData/WD~first-level administrative division,10864048]]"
+- "[[/_Standards/WikiData/WD~border_city,902814]]"
+- "[[/_Standards/WikiData/WD~first-level_administrative_division,10864048]]"
 capital_of:
-- "[[/_Standards/WikiData/WD~Belgian Congo,213510]]"
-- "[[/_Standards/WikiData/WD~Republic of the Congo (Léopoldville),618399]]"
+- "[[/_Standards/WikiData/WD~Belgian_Congo,213510]]"
+- "[[/_Standards/WikiData/WD~Republic_of_the_Congo_(Léopoldville),618399]]"
 - '[[/_Standards/WikiData/WD~Zaire,6500954]]'
 - '[[/_Standards/WikiData/WD~Q60852075,60852075]]'
-- "[[/_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+- "[[/_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
 shares_border_with:
 - '[[/_Standards/WikiData/WD~Kwilu,559537]]'
-- "[[/_Standards/WikiData/WD~Kongo Central,1043494]]"
-- "[[/_Standards/WikiData/WD~Mai-Ndombe Province,1163429]]"
-- "[[/_Standards/WikiData/WD~Kwango Province,24205498]]"
+- "[[/_Standards/WikiData/WD~Kongo_Central,1043494]]"
+- "[[/_Standards/WikiData/WD~Mai-Ndombe_Province,1163429]]"
+- "[[/_Standards/WikiData/WD~Kwango_Province,24205498]]"
 - '[[/_Standards/WikiData/WD~Brazzaville,3844]]'
 described_by_source:
-- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[/_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[/_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 5,124737632]]"
+- "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 contains_the_administrative_territorial_entity:
 - '[[/_Standards/WikiData/WD~Kisenso,614411]]'
 - '[[/_Standards/WikiData/WD~Bandalungwa,2882157]]'
@@ -72,17 +72,17 @@ contains_the_administrative_territorial_entity:
 - '[[/_Standards/WikiData/WD~Lingwala,3241566]]'
 - '[[/_Standards/WikiData/WD~Masina,3297273]]'
 - '[[/_Standards/WikiData/WD~Matete,3298470]]'
-- "[[/_Standards/WikiData/WD~Mont Ngafula,3321611]]"
+- "[[/_Standards/WikiData/WD~Mont_Ngafula,3321611]]"
 - '[[/_Standards/WikiData/WD~Ndjili,3337489]]'
 - '[[/_Standards/WikiData/WD~Ngaba,3339254]]'
 - '[[/_Standards/WikiData/WD~Ngaliema,3339269]]'
 - '[[/_Standards/WikiData/WD~Ngiri-Ngiri,3339313]]'
 - '[[/_Standards/WikiData/WD~Nsele,3345959]]'
 - '[[/_Standards/WikiData/WD~Selembao,3478081]]'
-member_of: "[[/_Standards/WikiData/WD~Creative Cities Network,1139352]]"
+member_of: "[[/_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
 language_used:
-- "[[/_Standards/WikiData/WD~East Teke,2802914]]"
-- "[[/_Standards/WikiData/WD~Kituba (Democratic Republic of Congo),63283489]]"
+- "[[/_Standards/WikiData/WD~East_Teke,2802914]]"
+- "[[/_Standards/WikiData/WD~Kituba_(Democratic_Republic_of_Congo),63283489]]"
 - '[[/_Standards/WikiData/WD~Swahili,7838]]'
 - '[[/_Standards/WikiData/WD~Kongo,33702]]'
 - '[[/_Standards/WikiData/WD~Luba-Kasai,34173]]'
@@ -90,7 +90,7 @@ language_used:
 - '[[/_Standards/WikiData/WD~Lingala,36217]]'
 located_in_the_administrative_territorial_entity: '[[/_Standards/WikiData/WD~Kinshasa,2994115]]'
 different_from: '[[/_Standards/WikiData/WD~Kinshasa,3091458]]'
-geography_of_topic: "[[/_Standards/WikiData/WD~geography of Kinshasa,3123267]]"
+geography_of_topic: "[[/_Standards/WikiData/WD~geography_of_Kinshasa,3123267]]"
 inception: "1881-01-01T00:00:00Z"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kinshasa%20%26%20Brazzaville%20-%20ISS007-E-6305%20lrg.jpg"
 UN_LOCODE: CDFIH
@@ -102,12 +102,12 @@ twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Ankara,3640]]'
 - '[[/_Standards/WikiData/WD~Dakar,3718]]'
 - '[[/_Standards/WikiData/WD~Brazzaville,3844]]'
-- "[[/_Standards/WikiData/WD~Brussels metropolitan area,9005]]"
+- "[[/_Standards/WikiData/WD~Brussels_metropolitan_area,9005]]"
 - '[[/_Standards/WikiData/WD~Incheon,20934]]'
-country: "[[/_Standards/WikiData/WD~Democratic Republic of the Congo,974]]"
+country: "[[/_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
 located_in_or_next_to_body_of_water: '[[/_Standards/WikiData/WD~Congo,3503]]'
 located_in_time_zone: '[[/_Standards/WikiData/WD~UTC+01_00,6655]]'
-named_after: "[[/_Standards/WikiData/WD~Leopold II of Belgium,12967]]"
+named_after: "[[/_Standards/WikiData/WD~Leopold_II_of_Belgium,12967]]"
 official_language: '[[/_Standards/WikiData/WD~French,150]]'
 elevation_above_sea_level: 240
 geoshape: "http://commons.wikimedia.org/data/main/Data:Democratic+Republic+of+the+Congo/Kinshasa+City.map"
