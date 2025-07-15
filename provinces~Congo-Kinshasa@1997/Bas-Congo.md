@@ -40,11 +40,18 @@ markerFolder: ./Bas-Congo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo|Bas-Congo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.public|Bas-Congo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.internal|Bas-Congo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.protect|Bas-Congo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.private|Bas-Congo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.personal|Bas-Congo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Bas-Congo.secret|Bas-Congo.secret]] 
+
+### #is_/same_as :: [Bas-Congo](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.md) 
+
+### #is_/same_as :: [Bas-Congo.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.public.md) 
+
+### #is_/same_as :: [Bas-Congo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.internal.md) 
+
+### #is_/same_as :: [Bas-Congo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.protect.md) 
+
+### #is_/same_as :: [Bas-Congo.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.private.md) 
+
+### #is_/same_as :: [Bas-Congo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.personal.md) 
+
+### #is_/same_as :: [Bas-Congo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.secret.md)
 

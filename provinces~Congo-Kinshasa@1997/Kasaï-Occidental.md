@@ -40,11 +40,18 @@ markerFolder: ./Kasaï-Occidental/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Occidental|Kasaï-Occidental]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Occidental.public|Kasaï-Occidental.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Occidental.internal|Kasaï-Occidental.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Occidental.protect|Kasaï-Occidental.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Occidental.private|Kasaï-Occidental.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Occidental.personal|Kasaï-Occidental.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Occidental.secret|Kasaï-Occidental.secret]] 
+
+### #is_/same_as :: [Kasaï-Occidental](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.md) 
+
+### #is_/same_as :: [Kasaï-Occidental.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.public.md) 
+
+### #is_/same_as :: [Kasaï-Occidental.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.internal.md) 
+
+### #is_/same_as :: [Kasaï-Occidental.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.protect.md) 
+
+### #is_/same_as :: [Kasaï-Occidental.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.private.md) 
+
+### #is_/same_as :: [Kasaï-Occidental.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.personal.md) 
+
+### #is_/same_as :: [Kasaï-Occidental.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.secret.md)
 

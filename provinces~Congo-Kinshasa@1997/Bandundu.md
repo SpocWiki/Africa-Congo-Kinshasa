@@ -40,11 +40,18 @@ markerFolder: ./Bandundu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu|Bandundu]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu.public|Bandundu.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu.internal|Bandundu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu.protect|Bandundu.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu.private|Bandundu.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu.personal|Bandundu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Bandundu.secret|Bandundu.secret]] 
+
+### #is_/same_as :: [Bandundu](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bandundu.md) 
+
+### #is_/same_as :: [Bandundu.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bandundu.public.md) 
+
+### #is_/same_as :: [Bandundu.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bandundu.internal.md) 
+
+### #is_/same_as :: [Bandundu.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bandundu.protect.md) 
+
+### #is_/same_as :: [Bandundu.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bandundu.private.md) 
+
+### #is_/same_as :: [Bandundu.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bandundu.personal.md) 
+
+### #is_/same_as :: [Bandundu.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bandundu.secret.md)
 

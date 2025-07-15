@@ -40,11 +40,18 @@ markerFolder: ./Nord-Kivu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu|Nord-Kivu]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.public|Nord-Kivu.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.internal|Nord-Kivu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.protect|Nord-Kivu.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.private|Nord-Kivu.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.personal|Nord-Kivu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Nord-Kivu.secret|Nord-Kivu.secret]] 
+
+### #is_/same_as :: [Nord-Kivu](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.md) 
+
+### #is_/same_as :: [Nord-Kivu.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.public.md) 
+
+### #is_/same_as :: [Nord-Kivu.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.internal.md) 
+
+### #is_/same_as :: [Nord-Kivu.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.protect.md) 
+
+### #is_/same_as :: [Nord-Kivu.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.private.md) 
+
+### #is_/same_as :: [Nord-Kivu.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.personal.md) 
+
+### #is_/same_as :: [Nord-Kivu.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Équateur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur|Équateur]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur.public|Équateur.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur.internal|Équateur.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur.protect|Équateur.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur.private|Équateur.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur.personal|Équateur.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Équateur.secret|Équateur.secret]] 
+
+### #is_/same_as :: [Équateur](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.md) 
+
+### #is_/same_as :: [Équateur.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.public.md) 
+
+### #is_/same_as :: [Équateur.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.internal.md) 
+
+### #is_/same_as :: [Équateur.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.protect.md) 
+
+### #is_/same_as :: [Équateur.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.private.md) 
+
+### #is_/same_as :: [Équateur.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.personal.md) 
+
+### #is_/same_as :: [Équateur.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.secret.md)
 

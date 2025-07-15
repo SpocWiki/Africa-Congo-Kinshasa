@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -4.3
 - 15.3
@@ -153,11 +153,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kinshasa) 
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa|Kinshasa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.public|Kinshasa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.internal|Kinshasa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.protect|Kinshasa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.private|Kinshasa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.personal|Kinshasa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/City/Kinshasa.secret|Kinshasa.secret]] 
+
+### #is_/same_as :: [Kinshasa](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.md) 
+
+### #is_/same_as :: [Kinshasa.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.public.md) 
+
+### #is_/same_as :: [Kinshasa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.internal.md) 
+
+### #is_/same_as :: [Kinshasa.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.protect.md) 
+
+### #is_/same_as :: [Kinshasa.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.private.md) 
+
+### #is_/same_as :: [Kinshasa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.personal.md) 
+
+### #is_/same_as :: [Kinshasa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.secret.md)
+

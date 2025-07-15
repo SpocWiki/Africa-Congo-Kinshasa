@@ -40,11 +40,18 @@ markerFolder: ./Sud-Kivu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu|Sud-Kivu]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.public|Sud-Kivu.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.internal|Sud-Kivu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.protect|Sud-Kivu.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.private|Sud-Kivu.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.personal|Sud-Kivu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Sud-Kivu.secret|Sud-Kivu.secret]] 
+
+### #is_/same_as :: [Sud-Kivu](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Sud-Kivu.md) 
+
+### #is_/same_as :: [Sud-Kivu.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Sud-Kivu.public.md) 
+
+### #is_/same_as :: [Sud-Kivu.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Sud-Kivu.internal.md) 
+
+### #is_/same_as :: [Sud-Kivu.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Sud-Kivu.protect.md) 
+
+### #is_/same_as :: [Sud-Kivu.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Sud-Kivu.private.md) 
+
+### #is_/same_as :: [Sud-Kivu.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Sud-Kivu.personal.md) 
+
+### #is_/same_as :: [Sud-Kivu.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Sud-Kivu.secret.md)
 

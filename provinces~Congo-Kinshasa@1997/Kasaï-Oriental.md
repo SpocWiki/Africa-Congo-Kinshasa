@@ -40,11 +40,18 @@ markerFolder: ./Kasaï-Oriental/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental|Kasaï-Oriental]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental.public|Kasaï-Oriental.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental.internal|Kasaï-Oriental.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental.protect|Kasaï-Oriental.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental.private|Kasaï-Oriental.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental.personal|Kasaï-Oriental.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Kasaï-Oriental.secret|Kasaï-Oriental.secret]] 
+
+### #is_/same_as :: [Kasaï-Oriental](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Oriental.md) 
+
+### #is_/same_as :: [Kasaï-Oriental.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Oriental.public.md) 
+
+### #is_/same_as :: [Kasaï-Oriental.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Oriental.internal.md) 
+
+### #is_/same_as :: [Kasaï-Oriental.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Oriental.protect.md) 
+
+### #is_/same_as :: [Kasaï-Oriental.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Oriental.private.md) 
+
+### #is_/same_as :: [Kasaï-Oriental.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Oriental.personal.md) 
+
+### #is_/same_as :: [Kasaï-Oriental.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Oriental.secret.md)
 

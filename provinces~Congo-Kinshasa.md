@@ -53,3 +53,22 @@ col: 2
 briefMax: 128
 noteOnly: true
 ```
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [provinces~Congo-Kinshasa](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa.md) 
+
+### #is_/same_as :: [provinces~Congo-Kinshasa.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa.public.md) 
+
+### #is_/same_as :: [provinces~Congo-Kinshasa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa.internal.md) 
+
+### #is_/same_as :: [provinces~Congo-Kinshasa.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa.protect.md) 
+
+### #is_/same_as :: [provinces~Congo-Kinshasa.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa.private.md) 
+
+### #is_/same_as :: [provinces~Congo-Kinshasa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa.personal.md) 
+
+### #is_/same_as :: [provinces~Congo-Kinshasa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa.secret.md)
+

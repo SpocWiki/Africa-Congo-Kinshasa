@@ -40,11 +40,18 @@ markerFolder: ./Orientale/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale|Orientale]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale.public|Orientale.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale.internal|Orientale.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale.protect|Orientale.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale.private|Orientale.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale.personal|Orientale.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Orientale.secret|Orientale.secret]] 
+
+### #is_/same_as :: [Orientale](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Orientale.md) 
+
+### #is_/same_as :: [Orientale.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Orientale.public.md) 
+
+### #is_/same_as :: [Orientale.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Orientale.internal.md) 
+
+### #is_/same_as :: [Orientale.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Orientale.protect.md) 
+
+### #is_/same_as :: [Orientale.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Orientale.private.md) 
+
+### #is_/same_as :: [Orientale.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Orientale.personal.md) 
+
+### #is_/same_as :: [Orientale.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Orientale.secret.md)
 

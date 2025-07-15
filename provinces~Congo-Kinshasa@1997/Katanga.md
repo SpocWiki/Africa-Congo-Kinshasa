@@ -40,11 +40,18 @@ markerFolder: ./Katanga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga|Katanga]] 
-- [[../../../../../../_public/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.public|Katanga.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.internal|Katanga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.protect|Katanga.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.private|Katanga.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.personal|Katanga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Congo~Kinshasa/Counties/Katanga.secret|Katanga.secret]] 
+
+### #is_/same_as :: [Katanga](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.md) 
+
+### #is_/same_as :: [Katanga.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.public.md) 
+
+### #is_/same_as :: [Katanga.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.internal.md) 
+
+### #is_/same_as :: [Katanga.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.protect.md) 
+
+### #is_/same_as :: [Katanga.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.private.md) 
+
+### #is_/same_as :: [Katanga.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.personal.md) 
+
+### #is_/same_as :: [Katanga.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.secret.md)
 
