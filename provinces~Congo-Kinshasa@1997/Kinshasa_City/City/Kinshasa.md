@@ -130,6 +130,9 @@ Country :: Congo,_Dem._Rep.]
 [Population::] 
 [Unknown::] 
 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Kinshasa,3838|WD~Kinshasa,3838]]
+
+## #has_/map 
 
 ```leaflet
 id: Kinshasa
