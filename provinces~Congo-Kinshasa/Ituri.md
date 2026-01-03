@@ -52,3 +52,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Ituri%20Province) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa/Ituri|Ituri]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa/Ituri.public|Ituri.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa/Ituri.internal|Ituri.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa/Ituri.protect|Ituri.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa/Ituri.private|Ituri.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa/Ituri.personal|Ituri.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa/Ituri.secret|Ituri.secret]] 
+

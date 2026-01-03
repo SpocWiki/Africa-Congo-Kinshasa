@@ -159,17 +159,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kinshasa](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa|Kinshasa]] 
 
-### #is_/same_as :: [Kinshasa.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.public|Kinshasa.public]] 
 
-### #is_/same_as :: [Kinshasa.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.internal|Kinshasa.internal]] 
 
-### #is_/same_as :: [Kinshasa.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.protect|Kinshasa.protect]] 
 
-### #is_/same_as :: [Kinshasa.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.private|Kinshasa.private]] 
 
-### #is_/same_as :: [Kinshasa.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.personal|Kinshasa.personal]] 
 
-### #is_/same_as :: [Kinshasa.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kinshasa_City/City/Kinshasa.secret|Kinshasa.secret]] 
 

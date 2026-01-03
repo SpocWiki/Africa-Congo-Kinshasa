@@ -40,17 +40,17 @@ markerFolder: ./Nord-Kivu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nord-Kivu](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu|Nord-Kivu]] 
 
-### #is_/same_as :: [Nord-Kivu.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.public|Nord-Kivu.public]] 
 
-### #is_/same_as :: [Nord-Kivu.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.internal|Nord-Kivu.internal]] 
 
-### #is_/same_as :: [Nord-Kivu.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.protect|Nord-Kivu.protect]] 
 
-### #is_/same_as :: [Nord-Kivu.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.private|Nord-Kivu.private]] 
 
-### #is_/same_as :: [Nord-Kivu.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.personal|Nord-Kivu.personal]] 
 
-### #is_/same_as :: [Nord-Kivu.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Nord-Kivu.secret|Nord-Kivu.secret]] 
 

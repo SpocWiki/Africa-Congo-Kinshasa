@@ -40,17 +40,17 @@ markerFolder: ./Équateur/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Équateur](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur|Équateur]] 
 
-### #is_/same_as :: [Équateur.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.public|Équateur.public]] 
 
-### #is_/same_as :: [Équateur.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.internal|Équateur.internal]] 
 
-### #is_/same_as :: [Équateur.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.protect|Équateur.protect]] 
 
-### #is_/same_as :: [Équateur.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.private|Équateur.private]] 
 
-### #is_/same_as :: [Équateur.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.personal|Équateur.personal]] 
 
-### #is_/same_as :: [Équateur.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Équateur.secret|Équateur.secret]] 
 

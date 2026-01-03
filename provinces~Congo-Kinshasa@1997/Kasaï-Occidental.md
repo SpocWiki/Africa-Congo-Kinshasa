@@ -40,17 +40,17 @@ markerFolder: ./Kasaï-Occidental/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kasaï-Occidental](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental|Kasaï-Occidental]] 
 
-### #is_/same_as :: [Kasaï-Occidental.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.public|Kasaï-Occidental.public]] 
 
-### #is_/same_as :: [Kasaï-Occidental.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.internal|Kasaï-Occidental.internal]] 
 
-### #is_/same_as :: [Kasaï-Occidental.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.protect|Kasaï-Occidental.protect]] 
 
-### #is_/same_as :: [Kasaï-Occidental.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.private|Kasaï-Occidental.private]] 
 
-### #is_/same_as :: [Kasaï-Occidental.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.personal|Kasaï-Occidental.personal]] 
 
-### #is_/same_as :: [Kasaï-Occidental.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Kasaï-Occidental.secret|Kasaï-Occidental.secret]] 
 

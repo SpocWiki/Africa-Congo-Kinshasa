@@ -114,3 +114,20 @@ dissolved_abolished_or_demolished_date: 1908-04-02T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Congo%20Free%20State) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/Congo_Free_State|Congo_Free_State]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/Congo_Free_State.public|Congo_Free_State.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/Congo_Free_State.internal|Congo_Free_State.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/Congo_Free_State.protect|Congo_Free_State.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/Congo_Free_State.private|Congo_Free_State.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/Congo_Free_State.personal|Congo_Free_State.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/Congo_Free_State.secret|Congo_Free_State.secret]] 
+

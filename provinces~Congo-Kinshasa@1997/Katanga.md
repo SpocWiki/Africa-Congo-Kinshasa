@@ -40,17 +40,17 @@ markerFolder: ./Katanga/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Katanga](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga|Katanga]] 
 
-### #is_/same_as :: [Katanga.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.public|Katanga.public]] 
 
-### #is_/same_as :: [Katanga.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.internal|Katanga.internal]] 
 
-### #is_/same_as :: [Katanga.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.protect|Katanga.protect]] 
 
-### #is_/same_as :: [Katanga.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.private|Katanga.private]] 
 
-### #is_/same_as :: [Katanga.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.personal|Katanga.personal]] 
 
-### #is_/same_as :: [Katanga.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Katanga.secret|Katanga.secret]] 
 

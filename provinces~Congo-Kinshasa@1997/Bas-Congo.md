@@ -40,17 +40,17 @@ markerFolder: ./Bas-Congo/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bas-Congo](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo|Bas-Congo]] 
 
-### #is_/same_as :: [Bas-Congo.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.public|Bas-Congo.public]] 
 
-### #is_/same_as :: [Bas-Congo.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.internal|Bas-Congo.internal]] 
 
-### #is_/same_as :: [Bas-Congo.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.protect|Bas-Congo.protect]] 
 
-### #is_/same_as :: [Bas-Congo.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.private|Bas-Congo.private]] 
 
-### #is_/same_as :: [Bas-Congo.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.personal|Bas-Congo.personal]] 
 
-### #is_/same_as :: [Bas-Congo.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa@1997/Bas-Congo.secret|Bas-Congo.secret]] 
 

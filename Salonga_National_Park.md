@@ -54,3 +54,20 @@ native_label: Parc national de la Salonga
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Salonga%20National%20Park) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/Salonga_National_Park|Salonga_National_Park]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/Salonga_National_Park.public|Salonga_National_Park.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/Salonga_National_Park.internal|Salonga_National_Park.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/Salonga_National_Park.protect|Salonga_National_Park.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/Salonga_National_Park.private|Salonga_National_Park.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/Salonga_National_Park.personal|Salonga_National_Park.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/Salonga_National_Park.secret|Salonga_National_Park.secret]] 
+

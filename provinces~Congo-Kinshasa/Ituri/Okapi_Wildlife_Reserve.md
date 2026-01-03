@@ -40,3 +40,20 @@ native_label: Réserve de faune à okapis
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Okapi%20Wildlife%20Reserve) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa/Ituri/Okapi_Wildlife_Reserve|Okapi_Wildlife_Reserve]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa/Ituri/Okapi_Wildlife_Reserve.public|Okapi_Wildlife_Reserve.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa/Ituri/Okapi_Wildlife_Reserve.internal|Okapi_Wildlife_Reserve.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa/Ituri/Okapi_Wildlife_Reserve.protect|Okapi_Wildlife_Reserve.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa/Ituri/Okapi_Wildlife_Reserve.private|Okapi_Wildlife_Reserve.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa/Ituri/Okapi_Wildlife_Reserve.personal|Okapi_Wildlife_Reserve.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa/provinces~Congo-Kinshasa/Ituri/Okapi_Wildlife_Reserve.secret|Okapi_Wildlife_Reserve.secret]] 
+
