@@ -5,14 +5,14 @@ aliases:
 has_id_wikidata: Q457304
 location: [ 2.0, 28.5]
 coordinate_location: Point(28.5 2.0)
-significant_event: "[[_Standards/WikiData/WD~list_of_World_Heritage_in_Danger,222384]]"
-significant_place: "[[_Standards/WikiData/WD~Isiro,899873]]"
-authority: "[[_Standards/WikiData/WD~Institut_Congolais_pour_la_Conservation_de_la_Nature,3151871]]"
-IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628]]"
-instance_of: "[[_Standards/WikiData/WD~faunal_reserve,20268453]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Ituri_Province,24909562]]"
-country: "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
-heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+significant_event: "[[_Standards/WikiData/WD~list_of_World_Heritage_in_Danger,222384|WD~list_of_World_Heritage_in_Danger,222384]]"
+significant_place: "[[_Standards/WikiData/WD~Isiro,899873|WD~Isiro,899873]]"
+authority: "[[_Standards/WikiData/WD~Institut_Congolais_pour_la_Conservation_de_la_Nature,3151871|WD~Institut_Congolais_pour_la_Conservation_de_la_Nature,3151871]]"
+IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628|WD~IUCN_category_II_National_Park,14545628]]"
+instance_of: "[[_Standards/WikiData/WD~faunal_reserve,20268453|WD~faunal_reserve,20268453]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Ituri_Province,24909562|WD~Ituri_Province,24909562]]"
+country: "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]"
+heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]"
 area:
   - 1372625
   - 13726.25

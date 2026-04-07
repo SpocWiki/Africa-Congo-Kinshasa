@@ -4,31 +4,31 @@ aliases:
   - Independent State of the Congo
   - État indépendant du Congo
 has_id_wikidata: Q76048
-basic_form_of_government: "[[_Standards/WikiData/WD~absolute_monarchy,184558]]"
-replaced_by: "[[_Standards/WikiData/WD~Belgian_Congo,213510]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~absolute_monarchy,184558|WD~absolute_monarchy,184558]]"
+replaced_by: "[[_Standards/WikiData/WD~Belgian_Congo,213510|WD~Belgian_Congo,213510]]"
 capital:
-  - "[[_Standards/WikiData/WD~Boma,223917]]"
-  - "[[_Standards/WikiData/WD~Vivi,3085535]]"
+  - "[[_Standards/WikiData/WD~Boma,223917|WD~Boma,223917]]"
+  - "[[_Standards/WikiData/WD~Vivi,3085535|WD~Vivi,3085535]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 replaces:
-  - "[[_Standards/WikiData/WD~International_Association_of_the_Congo,838416]]"
-  - "[[_Standards/WikiData/WD~Tippu_Tip's_state,60775599]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Sovereign_of_the_Congo_Free_State,115701315]]"
+  - "[[_Standards/WikiData/WD~International_Association_of_the_Congo,838416|WD~International_Association_of_the_Congo,838416]]"
+  - "[[_Standards/WikiData/WD~Tippu_Tip's_state,60775599|WD~Tippu_Tip's_state,60775599]]"
+instance_of: "[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751|WD~National_Museum_of_World_Cultures,17153751]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~Sovereign_of_the_Congo_Free_State,115701315|WD~Sovereign_of_the_Congo_Free_State,115701315]]"
 coordinate_location: Point(13.056666666 -5.854722222)
 inception: 1885-07-01T00:00:00Z
-owned_by: "[[_Standards/WikiData/WD~Leopold_II_of_Belgium,12967]]"
-founded_by: "[[_Standards/WikiData/WD~Leopold_II_of_Belgium,12967]]"
-head_of_state: "[[_Standards/WikiData/WD~Leopold_II_of_Belgium,12967]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-official_language: "[[_Standards/WikiData/WD~French,150]]"
+owned_by: "[[_Standards/WikiData/WD~Leopold_II_of_Belgium,12967|WD~Leopold_II_of_Belgium,12967]]"
+founded_by: "[[_Standards/WikiData/WD~Leopold_II_of_Belgium,12967|WD~Leopold_II_of_Belgium,12967]]"
+head_of_state: "[[_Standards/WikiData/WD~Leopold_II_of_Belgium,12967|WD~Leopold_II_of_Belgium,12967]]"
+continent: "[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]"
+official_language: "[[_Standards/WikiData/WD~French,150|WD~French,150]]"
 area: 2345410
 Commons_category: Congo Free State
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Congo%20Free%20State.svg

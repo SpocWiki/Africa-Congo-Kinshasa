@@ -6,40 +6,40 @@ aliases:
   - Kasai River
 has_id_wikidata: Q186541
 instance_of:
-  - "[[_Standards/WikiData/WD~watercourse,355304]]"
-  - "[[_Standards/WikiData/WD~river,4022]]"
+  - "[[_Standards/WikiData/WD~watercourse,355304|WD~watercourse,355304]]"
+  - "[[_Standards/WikiData/WD~river,4022|WD~river,4022]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Q24038851,24038851]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Q24038851,24038851|WD~Q24038851,24038851]]"
 tributary:
-  - "[[_Standards/WikiData/WD~Kwango_River,732790]]"
-  - "[[_Standards/WikiData/WD~Sankuru_River,899815]]"
-  - "[[_Standards/WikiData/WD~Kwilu_River,1059228]]"
-  - "[[_Standards/WikiData/WD~Luluwa,1487426]]"
-  - "[[_Standards/WikiData/WD~Fimi_River,2738652]]"
-  - "[[_Standards/WikiData/WD~Lukibu,3267142]]"
-  - "[[_Standards/WikiData/WD~Lutshuadi_River,3267924]]"
-  - "[[_Standards/WikiData/WD~Q3268257,3268257]]"
-  - "[[_Standards/WikiData/WD~Lweta,3268278]]"
-  - "[[_Standards/WikiData/WD~Chicapa,3541524]]"
-  - "[[_Standards/WikiData/WD~Loange_River,4781393]]"
-  - "[[_Standards/WikiData/WD~Luele_River,4783136]]"
-  - "[[_Standards/WikiData/WD~Kamtsha_River,4783258]]"
-  - "[[_Standards/WikiData/WD~Lubue_River,22595307]]"
-drainage_basin: "[[_Standards/WikiData/WD~Congo_basin,932289]]"
+  - "[[_Standards/WikiData/WD~Kwango_River,732790|WD~Kwango_River,732790]]"
+  - "[[_Standards/WikiData/WD~Sankuru_River,899815|WD~Sankuru_River,899815]]"
+  - "[[_Standards/WikiData/WD~Kwilu_River,1059228|WD~Kwilu_River,1059228]]"
+  - "[[_Standards/WikiData/WD~Luluwa,1487426|WD~Luluwa,1487426]]"
+  - "[[_Standards/WikiData/WD~Fimi_River,2738652|WD~Fimi_River,2738652]]"
+  - "[[_Standards/WikiData/WD~Lukibu,3267142|WD~Lukibu,3267142]]"
+  - "[[_Standards/WikiData/WD~Lutshuadi_River,3267924|WD~Lutshuadi_River,3267924]]"
+  - "[[_Standards/WikiData/WD~Q3268257,3268257|WD~Q3268257,3268257]]"
+  - "[[_Standards/WikiData/WD~Lweta,3268278|WD~Lweta,3268278]]"
+  - "[[_Standards/WikiData/WD~Chicapa,3541524|WD~Chicapa,3541524]]"
+  - "[[_Standards/WikiData/WD~Loange_River,4781393|WD~Loange_River,4781393]]"
+  - "[[_Standards/WikiData/WD~Luele_River,4783136|WD~Luele_River,4783136]]"
+  - "[[_Standards/WikiData/WD~Kamtsha_River,4783258|WD~Kamtsha_River,4783258]]"
+  - "[[_Standards/WikiData/WD~Lubue_River,22595307|WD~Lubue_River,22595307]]"
+drainage_basin: "[[_Standards/WikiData/WD~Congo_basin,932289|WD~Congo_basin,932289]]"
 coordinate_location:
   - Point(16.1967 -3.1765)
   - Point(19.3156 -10.9603)
 country:
-  - "[[_Standards/WikiData/WD~Angola,916]]"
-  - "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
-basin_country: "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Congo,3503]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+  - "[[_Standards/WikiData/WD~Angola,916|WD~Angola,916]]"
+  - "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]"
+basin_country: "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Congo,3503|WD~Congo,3503]]"
+continent: "[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]"
 discharge: 12000
 length: 2272
 watershed_area: 880200

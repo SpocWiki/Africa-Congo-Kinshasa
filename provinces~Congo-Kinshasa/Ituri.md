@@ -6,15 +6,15 @@ aliases:
 has_id_wikidata: Q24909562
 location: [ 1.83333333, 29.5]
 coordinate_location: Point(29.5 1.83333333)
-shares_border_with: "[[_Standards/WikiData/WD~North_Kivu,130625]]"
-different_from: "[[_Standards/WikiData/WD~Ituri,449747]]"
-capital: "[[_Standards/WikiData/WD~Bunia,648298]]"
-instance_of: "[[_Standards/WikiData/WD~province_of_the_Democratic_Republic_of_the_Congo,654140]]"
-replaces: "[[_Standards/WikiData/WD~Orientale_Province,831370]]"
+shares_border_with: "[[_Standards/WikiData/WD~North_Kivu,130625|WD~North_Kivu,130625]]"
+different_from: "[[_Standards/WikiData/WD~Ituri,449747|WD~Ituri,449747]]"
+capital: "[[_Standards/WikiData/WD~Bunia,648298|WD~Bunia,648298]]"
+instance_of: "[[_Standards/WikiData/WD~province_of_the_Democratic_Republic_of_the_Congo,654140|WD~province_of_the_Democratic_Republic_of_the_Congo,654140]]"
+replaces: "[[_Standards/WikiData/WD~Orientale_Province,831370|WD~Orientale_Province,831370]]"
 language_used:
-  - "[[_Standards/WikiData/WD~Hema,5710904]]"
-  - "[[_Standards/WikiData/WD~Congo_Swahili,10961696]]"
-country: "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
+  - "[[_Standards/WikiData/WD~Hema,5710904|WD~Hema,5710904]]"
+  - "[[_Standards/WikiData/WD~Congo_Swahili,10961696|WD~Congo_Swahili,10961696]]"
+country: "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]"
 population: 4392200
 area: 65658
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Democratic%20Republic%20of%20the%20Congo%20%2826%20provinces%29%20-%20Ituri.svg
@@ -24,7 +24,7 @@ ISO_3166_2_code: CD-IT
 
 # [[Ituri]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ituri_Province,24909562]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ituri_Province,24909562|WD~Ituri_Province,24909562]] 
 
 ## #has_/map 
 

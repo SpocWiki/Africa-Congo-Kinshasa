@@ -3,23 +3,23 @@ aliases:
 has_id_wikidata: Q328488
 location: [ -1.76516, 21.49723]
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Kasaï_Occidental,130576]]"
-  - "[[_Standards/WikiData/WD~Bandundu_Province,671442]]"
-  - "[[_Standards/WikiData/WD~Équateur,988104]]"
+  - "[[_Standards/WikiData/WD~Kasaï_Occidental,130576|WD~Kasaï_Occidental,130576]]"
+  - "[[_Standards/WikiData/WD~Bandundu_Province,671442|WD~Bandundu_Province,671442]]"
+  - "[[_Standards/WikiData/WD~Équateur,988104|WD~Équateur,988104]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~tropical_forest,199403]]"
-  - "[[_Standards/WikiData/WD~national_park,46169]]"
-significant_event: "[[_Standards/WikiData/WD~list_of_World_Heritage_in_Danger,222384]]"
-authority: "[[_Standards/WikiData/WD~Institut_Congolais_pour_la_Conservation_de_la_Nature,3151871]]"
-IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628]]"
+  - "[[_Standards/WikiData/WD~tropical_forest,199403|WD~tropical_forest,199403]]"
+  - "[[_Standards/WikiData/WD~national_park,46169|WD~national_park,46169]]"
+significant_event: "[[_Standards/WikiData/WD~list_of_World_Heritage_in_Danger,222384|WD~list_of_World_Heritage_in_Danger,222384]]"
+authority: "[[_Standards/WikiData/WD~Institut_Congolais_pour_la_Conservation_de_la_Nature,3151871|WD~Institut_Congolais_pour_la_Conservation_de_la_Nature,3151871]]"
+IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628|WD~IUCN_category_II_National_Park,14545628]]"
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(vii),23038981]]"
-  - "[[_Standards/WikiData/WD~(ix),23038985]]"
+  - "[[_Standards/WikiData/WD~(vii),23038981|WD~(vii),23038981]]"
+  - "[[_Standards/WikiData/WD~(ix),23038985|WD~(ix),23038985]]"
 coordinate_location:
   - Point(21.49723 -1.76516)
   - Point(21.0 -2.0)
-country: "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
-heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+country: "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]"
+heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]"
 inception: 1970-01-01T00:00:00Z
 area:
   - 3600000
