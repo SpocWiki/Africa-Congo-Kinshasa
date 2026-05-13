@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Bas-Congo/
 markerFolder: ./Bas-Congo/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

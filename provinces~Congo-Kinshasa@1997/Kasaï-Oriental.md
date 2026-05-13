@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kasaï-Oriental/
 markerFolder: ./Kasaï-Oriental/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

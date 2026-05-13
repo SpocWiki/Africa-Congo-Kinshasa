@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kinshasa_City/
 markerFolder: ./Kinshasa_City/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
