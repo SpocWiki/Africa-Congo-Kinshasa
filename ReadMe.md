@@ -528,7 +528,7 @@ coat_of_arms: '[[/_Standards/WikiData/WD~Arms_of_the_Democratic_Republic_of_the_
 highest_point: '[[/_Standards/WikiData/WD~Mount_Stanley,221666|WD~Mount_Stanley,221666]]'
 legislative_body: '[[/_Standards/WikiData/WD~Parliament_of_the_Democratic_Republic_of_the_Congo,282928|WD~Parliament_of_the_Democratic_Republic_of_the_Congo,282928]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
 - '[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 ethnic_group:
@@ -797,7 +797,7 @@ dv_ISO2: CD
 dv_ISO3: COD
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]'
+  - '[[../../../../../WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa|Congo~Kinshasa]]'
   - '[[/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.public|Congo~Kinshasa.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.internal|Congo~Kinshasa.internal]]'
@@ -1113,15 +1113,15 @@ dv_has_name_en: Congo, Dem. Rep.
 dv_has_name_de: Republik Kongo
 dv_Area-Total: 342000
 dv_Area-Land: 341500
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: CGO
 dv_Alcohol-l: 3.3
 dv_Language-Id: 496
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 15.3
 dv_has_place_latitude: -4.3
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]'
+- '[[../../../../../WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa|Congo~Kinshasa]]'
 - '[[/_public/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.public|Congo~Kinshasa.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.internal|Congo~Kinshasa.internal]]'
@@ -1144,7 +1144,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Congo~Kinshasa/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -1163,7 +1163,7 @@ markerFile: [[Congo~Kinshasa]]
 
 ```leaflet
 id: Congo~Kinshasa_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1187,11 +1187,11 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital ::  [[Congo~Dem_Rep/City/Kinshasa|Kinshasa]] ] 
+Capital ::  [[../Congo~Dem_Rep/City/Kinshasa|Kinshasa]] ] 
 
 ![[Coat_of_arms_of_the_Democratic_Republic_of_the_Congo.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Congo.mp3|Anthem-Congo.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Congo.mp3|Anthem-Congo.mp3]]
 
 ![[Flag_of_the_Democratic_Republic_of_the_Congo.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
@@ -1205,7 +1205,7 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 
 ## Economy 
-Congo has 80% of global [[../../../../Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt|Cobalt]] Resources! 
+Congo has 80% of global [[../../../../../Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt|Cobalt]] Resources! 
 
 
 ## #has_/text_of_/abstract 
